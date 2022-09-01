@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -r -a / root /boot
+ls -r -a /boot root /
