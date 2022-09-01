@@ -1,2 +1,2 @@
 #!/bin/bash
-$ sudo chmod --reference = hallo olleh
+$ sudo chmod --reference=olleh hallo
