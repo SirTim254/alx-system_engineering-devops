@@ -1,2 +1,2 @@
 #!/bin/bash
-cat sort -k 1  /etc/passwd
+sort -Mk1  /etc/passwd
